@@ -1,1 +1,1 @@
-# BCI-ti-augment-attention
+# BCI-to-augment-attention
